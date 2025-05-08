@@ -1,5 +1,5 @@
-let num1 = 10;
-let num2 = 5;
-let soma = num1+num2;
+let numero1 = parseInt(prompt("escreva o primeiro número"));
+let numero2 = parseInt(prompt("escreva o segundo número"));
 
-console.log("Soma: "+soma)
+let soma = numero1+numero2;
+alert(soma);
